@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Hello World!"
 date:   2016-04-28
 categories: blog
 ---
